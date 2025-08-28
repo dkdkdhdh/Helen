@@ -2,7 +2,6 @@
 cron:50 0,0 * * *
 const $ = new Env('飞牛论坛签到')
 """
-
 import os
 import requests
 from bs4 import BeautifulSoup
